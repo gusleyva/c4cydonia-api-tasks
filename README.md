@@ -1,5 +1,11 @@
 # Basic update for tasks
 
+## Authors
+
+* **[Resume](https://c4cydonia-vercel-blog.vercel.app/resume-qa)**
+* **[LinkedIn](https://www.linkedin.com/in/gustavo-leyva-b9493846/)**
+* **[Github](https://github.com/gusleyva)**
+
 ### Reference Documentation
 
 * Get all tasks
@@ -31,3 +37,14 @@ curl --location --request PUT 'localhost:8080/tasks/1' \
     "priority": 255
 }'
 ```
+
+## Built With
+
+* [Spring-boot](https://spring.io/projects/spring-boot) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [H2](h2database.com/html/main.html) - In-memory database
+* [Swagger](h2database.com/html/main.html) - Generate API-Docs
+* 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
